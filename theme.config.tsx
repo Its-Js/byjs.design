@@ -2,7 +2,7 @@ import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
-  logo: <span>ByJS</span>,
+  logo: <span>ByJs</span>,
   project: {
     link: "https://github.com/Its-Js/byjs.design",
   },
@@ -53,7 +53,23 @@ const config: DocsThemeConfig = {
     ),
   },
   footer: {
-    text: "Yet Another Design System - ByJS",
+    text: (
+      <span>
+        Please hesitate to reach out to me at:{" "}
+        <a
+          href="mailto:itsjs@icloud.com"
+          style={{ textDecoration: "underline" }}
+        >
+          itsjs@icloud.com
+        </a>
+      </span>
+    ),
+  },
+  editLink: {
+    component: null,
+  },
+  feedback: {
+    content: null,
   },
 };
 

@@ -1,6 +1,6 @@
 # ByJS.Design
 
-This is site built with [Nextra](https://nextra.site).
+This is site built using [Nextra](https://nextra.site).
 
 [**Live Demo →**](https://nextra-docs-template.vercel.app)
 
