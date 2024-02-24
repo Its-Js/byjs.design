@@ -1,20 +1,14 @@
 {
-  "index": {
-    "title": "Home",
-    "type": "page"
-  },
-  "introduction": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Introduction",
+  "about": "About Me",
   "YADS": "Yet Another Design System",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "main": {
+    "title": ".Design",
+    "type":"page",
+    "href":"/"
   },
   "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://www.linkedin.com/in/shan-jiang-5449551b6/",
-    "newWindow": true
+    "title": "Contact",
+    "type": "page"
   }
 }
