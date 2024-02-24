@@ -6,6 +6,10 @@ This is site built using [Nextra](https://nextra.site).
 
 [![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
 
+## Useful Link
+
+https://nextra.site/docs/docs-theme/page-configuration#separators
+
 ## License
 
 This project is licensed under the MIT License.
