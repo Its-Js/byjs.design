@@ -4,7 +4,7 @@ import { DocsThemeConfig } from "nextra-theme-docs";
 const config: DocsThemeConfig = {
   logo: <span>ByJS</span>,
   project: {
-    link: "https://github.com/Its-Js",
+    link: "https://github.com/Its-Js/byjs.design",
   },
   chat: {
     link: "https://figma.com/@itsjs",
