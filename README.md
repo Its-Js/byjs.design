@@ -8,7 +8,10 @@ This is site built using [Nextra](https://nextra.site).
 
 ## Useful Link
 
-https://nextra.site/docs/docs-theme/page-configuration#separators
+https://nextra.site/docs/docs-theme/page-configuration
+
+https://nextra.site/docs/docs-theme/theme-configuration
+
 
 ## Issues Faced
 
