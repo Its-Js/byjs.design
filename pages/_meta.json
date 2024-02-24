@@ -1,17 +1,13 @@
 {
-  "index": "ByJS",
+  "index": "ByJs",
   "YADS": "Yet Another Design System",
-  ".Design": {
-    "title":".Design",
-    "type":"page",
-    "href": "/"
+  "---":{
+    "type": "separator"
   },
   "about": {
-    "title":"About",
-    "type":"page"
+    "title":"About Me"
   },
   "contact": {
-    "title":"Contact",
-    "type":"page"
+    "title":"Contact"
   }
 }

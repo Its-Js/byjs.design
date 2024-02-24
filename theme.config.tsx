@@ -2,7 +2,7 @@ import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
-  logo: <span>ByJs</span>,
+  logo: <span>Js.</span>,
   project: {
     link: "https://github.com/Its-Js/byjs.design",
   },
