@@ -3,8 +3,10 @@
     "title": "Home",
     "type": "page"
   },
+  "introduction": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "YADS": "Yet Another Design System",
   "about": {
     "title": "About",
     "type": "page"
