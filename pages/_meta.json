@@ -1,5 +1,9 @@
 {
   "index": "ByJs",
+  "onuiux": "On UI/UX",
+  "flexbox": "CSS Flexbox",
+  "responsivescreenguidelines": "Responsive Screen Guidelines",
+  "browser": "Browser",
   "YADS": "Yet Another Design System",
   "---":{
     "type": "separator"
