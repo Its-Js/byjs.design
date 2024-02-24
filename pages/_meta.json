@@ -1,6 +1,6 @@
 {
   "index": "ByJs",
-  "uiux": "UI/UX",
+  "design": ".Design",
   "YADS": "Yet Another Design System",
   "---":{
     "type": "separator"
