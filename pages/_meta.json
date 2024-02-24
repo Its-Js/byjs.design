@@ -1,21 +1,17 @@
 {
   "index": "ByJS",
   "YADS": "Yet Another Design System",
-   "---": {
-    "type": "separator"
+  ".Design": {
+    "title":".Design",
+    "type":"page",
+    "href": "/"
   },
-  "headerMenu": {
-    "title": ".Design",
-    "type": "menu",
-    "items":{
-      "about": {
-        "title": "About",
-        "href": "/about"
-      },
-      "contact": {
-        "title": "Contact",
-        "type": "page"
-      }
-    }
+  "about": {
+    "title":"About",
+    "type":"page"
+  },
+  "contact": {
+    "title":"Contact",
+    "type":"page"
   }
 }
