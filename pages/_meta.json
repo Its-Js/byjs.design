@@ -1,11 +1,6 @@
 {
   "index": "ByJS",
   "YADS": "Yet Another Design System",
-  ".Design": {
-    "title":".Design",
-    "type":"page",
-    "href": "/"
-  },
   "about": {
     "title":"About",
     "type":"page"
